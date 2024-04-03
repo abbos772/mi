@@ -1,0 +1,17 @@
+.footer {
+  background: rgb(16, 14, 14);
+  height: 500px;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  justify-content: space-around;
+}
+.foot {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

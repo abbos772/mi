@@ -1,0 +1,15 @@
+.navbar {
+  height: 56px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: sans-serif;
+}
+.nav {
+  display: flex;
+  gap: 45px;
+  align-items: center;
+}
+.nav h4 {
+  color: rgb(106, 106, 106);
+}

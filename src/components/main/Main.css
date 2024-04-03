@@ -1,0 +1,104 @@
+.main {
+  background: #e7e6e5;
+}
+.products {
+  display: flex;
+  flex-direction: column;
+}
+.watch {
+  width: 100%;
+  background-position: center;
+}
+.text {
+  line-height: 3;
+  padding-top: 100px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: rgb(109, 109, 109);
+  align-items: center;
+  justify-content: center;
+}
+.aa {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
+
+.cards {
+  background: white;
+  border-radius: 10px;
+  height: 710px;
+  margin-top: 70px;
+  padding: 20px;
+  width: 1370px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card_m {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+.card_text {
+  width: 664px;
+  height: 331px;
+  background-color: rgb(244, 244, 244);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+b {
+  color: red;
+}
+.mini_card {
+  width: 320px;
+  height: 331px;
+  border-radius: 15px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(241, 241, 241);
+}
+.supports {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 15px;
+  padding-top: 70px;
+  margin: 100px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.sup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  flex-direction: column;
+}
+.sup1 {
+  display: flex;
+  padding-top: 50px;
+  gap: 220px;
+  align-items: center;
+  justify-content: center;
+}
